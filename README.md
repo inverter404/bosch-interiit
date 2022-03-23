@@ -13,6 +13,8 @@
 ### Usage info
 1. Baseline Model can be downloaded from these links
    - [BlackBoX-SwinT](https://drive.google.com/file/d/121p8S5fBT9nWfFjiRZptGUUkPI0xRnrf/view?usp=sharing)
+   - [Movinet- Model Pretraining](https://drive.google.com/drive/folders/1beKkvVIr45fhwBEXBgwDxJNB_TzDuO0o)
+   - [Movinet- Model and Generator](https://drive.google.com/drive/folders/1SrvQKGy9oi9AkkDSr-j_aHXEeznkdrhJ)
 ---
 ## File Structure
 - **Detailed project report** has been attached as `PROJECT_REPORT.pdf`.
