@@ -15,6 +15,7 @@
    - [BlackBoX-SwinT](https://drive.google.com/file/d/121p8S5fBT9nWfFjiRZptGUUkPI0xRnrf/view?usp=sharing)
    - [Movinet- Model Pretraining](https://drive.google.com/drive/folders/1beKkvVIr45fhwBEXBgwDxJNB_TzDuO0o)
    - [Movinet- Model and Generator](https://drive.google.com/drive/folders/1SrvQKGy9oi9AkkDSr-j_aHXEeznkdrhJ)
+   - [Graybox- SwinT](https://drive.google.com/file/d/1Uf3vwEU2vDrm8za5-rGfC5d0_U_3vWb5/view)
 ---
 ## File Structure
 - **Detailed project report** has been attached as `PROJECT_REPORT.pdf`.
