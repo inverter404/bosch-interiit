@@ -12,6 +12,7 @@
 
 ### Usage info
 1. Baseline Model can be downloaded from these links
+   - [BlackBoX-SwinT](https://drive.google.com/file/d/121p8S5fBT9nWfFjiRZptGUUkPI0xRnrf/view?usp=sharing)
 ---
 ## File Structure
 - **Detailed project report** has been attached as `PROJECT_REPORT.pdf`.
